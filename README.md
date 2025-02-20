@@ -14,6 +14,11 @@ https://huggingface.co/datasets/ai4bharat/IndicSentenceSummarization/viewer/ta -
 -->The dataset split is:
 Train:test:validation = 8:1:1
 
+-->Entities handled:
+-->Dates 
+-->Currencies
+-->Scientific units
+
 -->Entities were handled and the fuctions were passed onto the dataset
 
 -->In this dataset columns "id" and "url" were dropped and uploaded into hugging face
